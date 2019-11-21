@@ -1,5 +1,5 @@
 const peso1 = 1.3
-const peso2 = Number('2.0')
+const peso2 = Number('2.0') 
 
 // console.log(Number.isInteger(peso1))
 // console.log(peso2)
